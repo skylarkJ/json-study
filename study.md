@@ -30,7 +30,29 @@ JSON only looks like an object. It is not an object.
 ## JSON Example
 
 As it makes sense to you please write the following in JSON format:
+{
+  "name" : "Jason",
+  "things" : {
+      "cat" : "Mr. Kitty"
+      "roomates" : {
+                  "person1" : "Dave",
+                  "person2" : "Miller
+      }
+  }
+  "fan" : {
+      "baseball" : "Red Sox",
+      "football" : "Patriots",
+      "hockey"   : "Bruins"
+  }
 
+  "places" : {
+      "address" : "123 Fake Street",
+      "address" : "2 Muninfo Road"
+  }
+
+
+
+}
 -   Jason has many things...
 -   A Cat named Mr.Kitty
 -   Two roomates named Dave and Miller
